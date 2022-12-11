@@ -1,0 +1,16 @@
+Exercice Ajax:
+
+- Le but de l'exercice est de réaliser une barre de recherche qui va aller
+chercher les informations sur la personne demandée dans l'api de github afin d'afficher:
+ - le login de la personne 
+ - son nom complet,
+ - son avatar github 
+ - le lien vers son profil github.
+
+- Pour arriver a se résultat on va utiliser la fonction ajax() de JQuery afin de ne pas avoir besoins de rafraîr la page à chaque fois que l'on fait une nouvelle recherche.
+
+- Pour ce faire il faut créer un input de type text avec un id.
+Créer un bouton avec un id pour valider l'entrée saisie.
+Créer ensuite une div avec un id="results"
+
+- Faire un script JQuery qui fait fonctionner le tout.
